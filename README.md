@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Jun Gu, a Ph.D candidate in University of Science and Technology of China 🇨🇳.
+Jun Gu, a Ph.D candidate in University of Science and Technology of China.
 
 🔭 I’m currently working on global convection-permitting atmospheric model (MPAS or else)
 
