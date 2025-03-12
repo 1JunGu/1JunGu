@@ -6,7 +6,7 @@ Jun Gu, a Ph.D candidate in University of Science and Technology of China.
 
 🌱 I’m currently learning program optimization and speed up.
 
-🤔 I’m looking for PostDoctroal jobs.
+🤔 I’m looking for a PostDoctroal job related to global cloud-resolving models.
 
 📫 How to reach me: kyuinkoo@mail.ustc.edu.cn
 
